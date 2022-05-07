@@ -18,6 +18,18 @@
   </p>
 </div>
 
+## Youtube
+
+* [Making Humans a Multiplanetary Species](https://www.youtube.com/watch?v=H7Uyfqi_TE8&t=2522s) - Video of Elon Musk's speech proposing a self-sufficient city on Mars
+
+## Website
+
+* [NASA Image and Video Library](https://images.nasa.gov/) - A curious place to store all NASA photos and videos
+
+* [space.com](https://www.space.com/) - A information website of space
+
+* [The Space Review](https://www.thespacereview.com/index.html) - Discussions on all cutting-edge issues in the aerospace field have accumulated a lot of essential information
+
 ## Books
 
 ### The Books for Elon Musk to teach himself about rockets
