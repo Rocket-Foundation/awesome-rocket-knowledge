@@ -30,6 +30,10 @@
 
 * [The Space Review](https://www.thespacereview.com/index.html) - Discussions on all cutting-edge issues in the aerospace field have accumulated a lot of essential information
 
+* [The Galileo Project](https://projects.iq.harvard.edu/galileo) - Harvard University Official Extraterrestrial Civilization Exploration Program
+
+* [Thw Mars Society](https://www.marssociety.org/) - The Mars Society founded by Dr. Zubrin
+
 ## Books
 
 ### The Books for Elon Musk to teach himself about rockets
