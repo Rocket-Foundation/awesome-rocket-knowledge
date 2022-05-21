@@ -45,3 +45,9 @@
 * [International Reference Guide to Space Launch Systems](https://www.amazon.com/International-Reference-Launch-Systems-Library/dp/156347591X/ref=sr_1_1?s=books&ie=UTF8&qid=1421803965&sr=1-1&keywords=launch+isakowitz) - Launch scenarios for Brazil, China, Europe, India, Israel, Japan, Russia, Ukraine and the United States
 
 * [Elements of Propulsion: Gas Turbines and Rockets (AIAA Education Series)](https://www.amazon.com/Elements-Propulsion-Turbines-Rockets-Education/dp/1563477793/ref=sr_1_1?s=books&ie=UTF8&qid=1421804008&sr=1-1&keywords=aiaa+propulsion+elements) - Technology of gas turbines and rocket propulsion
+
+### ToDo: Books
+
+### ToDo: Movies
+
+### ToDo: More tech resources
