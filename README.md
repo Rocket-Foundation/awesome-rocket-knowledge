@@ -19,6 +19,10 @@
     <a href="https://twitter.com/LuozhuZhang">
       <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/LuozhuZhang.svg?style=social&label=Follow%20%40LuozhuZhang">
     </a>
+    <a href="https://twitter.com/ChrisYicheng">
+      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/Yicheng.svg?style=social&label=Follow%20%40Yicheng">
+    </a>
+    
   </p>
 </div>
 
