@@ -25,6 +25,17 @@
 ### Discord Group
 Join our [discord](https://discord.gg/a6nT6CjUga), and explore the unknown with more rocket engineers under the leadership of curiosity.
 
+## Catalog
+* [Basics](#basics)
+  * [Youtube](#youtube)
+  * [Website](#website)
+  * [Books](#books)
+  * [Youtube](#youtube)
+* [Rocketry](#rocketry)
+  * [Homemade Rocket Instruction](#homemade-rocket-instruction)
+    * [Launch Case](#launch-case)
+    * [Tutorial](#tutorial)
+
 ## Basics
 
 ### Youtube
@@ -45,3 +56,13 @@ Join our [discord](https://discord.gg/a6nT6CjUga), and explore the unknown with 
 ### ToDo: Movies
 
 ### ToDo: More tech resources
+
+## Rocketry
+
+### Homemade Rocket Instruction
+#### Launch Case
+* [Launching a homemade rocket](https://www.youtube.com/watch?app=desktop&v=7E4-60ZsaPo)
+
+#### Tutorial
+* [DIY Rocket Engines - Easy and Cheap](https://www.youtube.com/watch?v=nPM3KcHzN6I)
+
