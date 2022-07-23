@@ -46,8 +46,6 @@
 
 * [Elements of Propulsion: Gas Turbines and Rockets (AIAA Education Series)](https://www.amazon.com/Elements-Propulsion-Turbines-Rockets-Education/dp/1563477793/ref=sr_1_1?s=books&ie=UTF8&qid=1421804008&sr=1-1&keywords=aiaa+propulsion+elements) - Technology of gas turbines and rocket propulsion
 
-### ToDo: Books
-
 ### ToDo: Movies
 
 ### ToDo: More tech resources
