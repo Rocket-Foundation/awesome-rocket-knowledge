@@ -23,7 +23,7 @@
 </div>
 
 ### Discord Group
-Join our [discord](https://discord.gg/a6nT6CjUga), and explore the unknown with more rocket engineers under the leadership of curiosity.
+Join our [discord](https://discord.gg/a6nT6CjUga), and change the world with more rocket engineers led by curiosity.
 
 ## Catalog
 * [Basics](#basics)
